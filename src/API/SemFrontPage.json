@@ -1,0 +1,414 @@
+[
+  {
+    "id": 1,
+    "branch": "Computer Science and Engineering",
+    "semesters": [
+      {
+        "id":1,
+        "semester": 1,
+        "subjects": [
+          "Mathematics - I",
+          "Engineering Physics",
+          "Programming in C",
+          "Engineering Chemistry",
+          "Basic Electrical Engineering"
+        ],
+        "image": "https://example.com/sem1.jpg",
+        "description": "Semester 1 covers the fundamental concepts of mathematics, physics, chemistry, programming, and electrical engineering."
+      },
+      {
+        "id":2,
+        "semester": 2,
+        "subjects": [
+          "Mathematics - II",
+          "Discrete Mathematics",
+          "Data Structures",
+          "Engineering Mechanics",
+          "Computer Organization"
+        ],
+        "image": "https://example.com/sem2.jpg",
+        "description": "Semester 2 introduces data structures, discrete mathematics, and a deeper understanding of computer organization and engineering mechanics."
+      },
+      {
+        "id":3,
+        "semester": 3,
+        "subjects": [
+          "Mathematics - III",
+          "Digital Electronics",
+          "Object-Oriented Programming",
+          "Database Management Systems",
+          "Design and Analysis of Algorithms"
+        ],
+        "image": "https://example.com/sem3.jpg",
+        "description": "Semester 3 focuses on digital electronics, OOP, DBMS, and algorithms which form the core for further studies in computer science."
+      },
+      {
+        "id":4,
+        "semester": 4,
+        "subjects": [
+          "Operating Systems",
+          "Computer Networks",
+          "Software Engineering",
+          "Microprocessors and Microcontrollers",
+          "Discrete Structures"
+        ],
+        "image": "https://example.com/sem4.jpg",
+        "description": "In semester 4, students learn about operating systems, networks, and software engineering concepts, alongside practical knowledge of microprocessors."
+      },
+      {
+        "id":5,
+        "semester": 5,
+        "subjects": [
+          "Automata Theory",
+          "Compiler Design",
+          "Computer Graphics",
+          "Artificial Intelligence",
+          "Software Project Management"
+        ],
+        "image": "https://example.com/sem5.jpg",
+        "description": "Semester 5 includes advanced topics like automata theory, compiler design, AI, and software project management."
+      },
+      {
+        "id":6,
+        "semester": 6,
+        "subjects": [
+          "Cloud Computing",
+          "Database Security",
+          "Machine Learning",
+          "Mobile Application Development",
+          "Web Technologies"
+        ],
+        "image": "https://example.com/sem6.jpg",
+        "description": "Semester 6 focuses on modern technologies such as cloud computing, machine learning, and mobile app development."
+      },
+      {
+        "id":7,
+        "semester": 7,
+        "subjects": [
+          "Data Science",
+          "Big Data Analytics",
+          "Internet of Things (IoT)",
+          "Cyber Security",
+          "Software Testing"
+        ],
+        "image": "https://example.com/sem7.jpg",
+        "description": "Semester 7 introduces data science, big data, IoT, and cyber security along with software testing methodologies."
+      },
+      {
+        "id":8,
+        "semester": 8,
+        "subjects": [
+          "Cloud Computing (Advanced)",
+          "Blockchain Technology",
+          "Robotics",
+          "Project Work",
+          "Technical Writing"
+        ],
+        "image": "https://example.com/sem8.jpg",
+        "description": "In the final semester, students learn advanced cloud computing, blockchain, and robotics, with a focus on project work and technical writing."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "branch": "Electronics & Telecommunication Engineering",
+    "semesters": [
+      {
+        "semester": 1,
+        "subjects": [
+          "Mathematics - I",
+          "Engineering Physics",
+          "Basic Electrical Engineering",
+          "Programming in C",
+          "Engineering Mechanics"
+        ],
+        "image": "https://example.com/et-sem1.jpg",
+        "description": "Introduces basic concepts in physics, mathematics, electrical engineering, and programming."
+      },
+      {
+        "semester": 2,
+        "subjects": [
+          "Mathematics - II",
+          "Digital Electronics",
+          "Electromagnetic Fields",
+          "Circuits and Networks",
+          "Electronic Devices"
+        ],
+        "image": "https://example.com/et-sem2.jpg",
+        "description": "Focuses on digital electronics, field theory, circuits, and electronic components."
+      },
+      {
+        "semester": 3,
+        "subjects": [
+          "Mathematics - III",
+          "Analog Electronics",
+          "Signals and Systems",
+          "Communication Systems",
+          "Microprocessors"
+        ],
+        "image": "https://example.com/et-sem3.jpg",
+        "description": "Emphasis on analog systems, signals, communication techniques, and microprocessors."
+      },
+      {
+        "semester": 4,
+        "subjects": [
+          "Control Systems",
+          "Digital Signal Processing",
+          "VLSI Design",
+          "Electromagnetic Waves",
+          "Communication Networks"
+        ],
+        "image": "https://example.com/et-sem4.jpg",
+        "description": "Focuses on control systems, VLSI, and advanced communication techniques."
+      },
+      {
+        "semester": 5,
+        "subjects": [
+          "Microcontrollers",
+          "Optical Communication",
+          "Antenna and Wave Propagation",
+          "Embedded Systems",
+          "Elective I"
+        ],
+        "image": "https://example.com/et-sem5.jpg",
+        "description": "Advanced communication systems and embedded systems."
+      },
+      {
+        "semester": 6,
+        "subjects": [
+          "Wireless Communication",
+          "Digital Communication",
+          "Satellite Communication",
+          "Networking Protocols",
+          "Elective II"
+        ],
+        "image": "https://example.com/et-sem6.jpg",
+        "description": "Specialization in wireless, satellite, and digital communication systems."
+      },
+      {
+        "semester": 7,
+        "subjects": [
+          "Communication Systems Design",
+          "Advanced Digital Signal Processing",
+          "IoT and Smart Systems",
+          "Elective III",
+          "Project Work"
+        ],
+        "image": "https://example.com/et-sem7.jpg",
+        "description": "Advanced communication design and smart system integration."
+      },
+      {
+        "semester": 8,
+        "subjects": [
+          "Optical Networks",
+          "Fiber Optic Communication",
+          "Comprehensive Viva",
+          "Final Project"
+        ],
+        "image": "https://example.com/et-sem8.jpg",
+        "description": "Final phase with specialized communication techniques and project work."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "branch": "Electrical Engineering",
+    "semesters": [
+      {
+        "semester": 1,
+        "subjects": [
+          "Engineering Mathematics I",
+          "Engineering Physics",
+          "Basic Electrical Engineering",
+          "Engineering Mechanics",
+          "Computer Programming"
+        ],
+        "image": "https://example.com/eee-sem1.jpg",
+        "description": "Introduces fundamentals of physics and electrical engineering."
+      },
+      {
+        "semester": 2,
+        "subjects": [
+          "Engineering Mathematics II",
+          "Circuit Theory",
+          "Electronic Devices",
+          "Electromagnetic Field Theory",
+          "Network Analysis"
+        ],
+        "image": "https://example.com/eee-sem2.jpg",
+        "description": "Foundation in circuits, electronics, and field theory."
+      },
+      {
+        "semester": 3,
+        "subjects": [
+          "Electrical Machines I",
+          "Analog Electronics",
+          "Digital Electronics",
+          "Signals and Systems",
+          "Measurement and Instrumentation"
+        ],
+        "image": "https://example.com/eee-sem3.jpg",
+        "description": "Study of machines, electronics, and signal processing."
+      },
+      {
+        "semester": 4,
+        "subjects": [
+          "Electrical Machines II",
+          "Power Systems I",
+          "Control Systems",
+          "Microprocessors",
+          "Electrical Workshop"
+        ],
+        "image": "https://example.com/eee-sem4.jpg",
+        "description": "Power systems and microprocessor-based control systems."
+      },
+      {
+        "semester": 5,
+        "subjects": [
+          "Power Electronics",
+          "Power Systems II",
+          "Embedded Systems",
+          "Elective I",
+          "Mini Project"
+        ],
+        "image": "https://example.com/eee-sem5.jpg",
+        "description": "Advanced power systems and embedded applications."
+      },
+      {
+        "semester": 6,
+        "subjects": [
+          "High Voltage Engineering",
+          "Renewable Energy Systems",
+          "Elective II",
+          "Project Phase I",
+          "Seminar"
+        ],
+        "image": "https://example.com/eee-sem6.jpg",
+        "description": "Renewables and high voltage engineering with project start."
+      },
+      {
+        "semester": 7,
+        "subjects": [
+          "Electric Drives",
+          "Smart Grid Technologies",
+          "Elective III",
+          "Project Phase II",
+          "Industrial Training"
+        ],
+        "image": "https://example.com/eee-sem7.jpg",
+        "description": "Electric drives and smart grid systems with industrial training."
+      },
+      {
+        "semester": 8,
+        "subjects": [
+          "Energy Management",
+          "Electric Vehicle Technology",
+          "Comprehensive Viva",
+          "Final Project"
+        ],
+        "image": "https://example.com/eee-sem8.jpg",
+        "description": "Final phase covers EV technologies and comprehensive project work."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "branch": "Mechanical Engineering",
+    "semesters": [
+      {
+        "semester": 1,
+        "subjects": [
+          "Engineering Mathematics I",
+          "Engineering Physics",
+          "Engineering Chemistry",
+          "Engineering Mechanics",
+          "Basic Electrical Engineering"
+        ],
+        "image": "https://example.com/me-sem1.jpg",
+        "description": "Introduces the fundamental concepts in mechanics and basic engineering principles."
+      },
+      {
+        "semester": 2,
+        "subjects": [
+          "Engineering Mathematics II",
+          "Strength of Materials",
+          "Fluid Mechanics",
+          "Manufacturing Processes",
+          "Engineering Thermodynamics"
+        ],
+        "image": "https://example.com/me-sem2.jpg",
+        "description": "Foundation in strength of materials, fluid mechanics, and thermodynamics."
+      },
+      {
+        "semester": 3,
+        "subjects": [
+          "Mechanical Vibrations",
+          "Heat and Mass Transfer",
+          "Machine Design",
+          "Production Planning",
+          "Material Science"
+        ],
+        "image": "https://example.com/me-sem3.jpg",
+        "description": "Advanced study in vibrations, heat transfer, and machine design."
+      },
+      {
+        "semester": 4,
+        "subjects": [
+          "Mechanical Engineering Design",
+          "Manufacturing Processes II",
+          "Fluid Mechanics II",
+          "Control Systems",
+          "Instrumentation"
+        ],
+        "image": "https://example.com/me-sem4.jpg",
+        "description": "Detailed study in design, fluid dynamics, and control systems."
+      },
+      {
+        "semester": 5,
+        "subjects": [
+          "Internal Combustion Engines",
+          "Finite Element Analysis",
+          "Mechatronics",
+          "Thermal Engineering",
+          "Elective I"
+        ],
+        "image": "https://example.com/me-sem5.jpg",
+        "description": "Specialization in combustion engines, mechatronics, and thermal systems."
+      },
+      {
+        "semester": 6,
+        "subjects": [
+          "Robotics",
+          "Manufacturing Automation",
+          "Heat Transfer",
+          "Project Management",
+          "Elective II"
+        ],
+        "image": "https://example.com/me-sem6.jpg",
+        "description": "Study of robotics, automation, and project management."
+      },
+      {
+        "semester": 7,
+        "subjects": [
+          "Mechanical Systems Design",
+          "Finite Element Methods",
+          "Mechatronics II",
+          "Elective III",
+          "Project Work"
+        ],
+        "image": "https://example.com/me-sem7.jpg",
+        "description": "Focus on mechanical design systems and advanced mechatronics."
+      },
+      {
+        "semester": 8,
+        "subjects": [
+          "Advanced Manufacturing",
+          "Comprehensive Viva",
+          "Final Project"
+        ],
+        "image": "https://example.com/me-sem8.jpg",
+        "description": "Final semester covers advanced manufacturing and project work."
+      }
+    ]
+  }
+]

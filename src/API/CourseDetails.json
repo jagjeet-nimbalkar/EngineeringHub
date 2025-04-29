@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/cse.png",
+    "branch": "Computer Science and Engineering",
+    "description": "Get structured notes, PYQs, books, and video content for DSA, DBMS, OS, and more — everything you need to master coding and core CS subjects."
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/etc.png",
+    "branch": "Electronics & Telecommunication Engineering",
+    "description": "Access unit-wise study material on circuits, signals, communication systems, and embedded tech, crafted for clarity and quick prep."
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/electric.png",
+    "branch": "Electrical Engineering",
+    "description": "Boost your concepts in machines, power systems, and electrical measurements with quality notes, books, and previous year papers."
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/mech.png",
+    "branch": "Mechanical Engineering",
+    "description": "Study with clear notes, solved PYQs, and hand-picked resources for subjects like SOM, TOM, Thermal, and Fluid Mechanics."
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/civil.png",
+    "branch": "Civil Engineering",
+    "description": "Plan your learning with focused notes and resources on structures, surveying, RCC, and environment engineering — all semester-wise."
+  }
+]
