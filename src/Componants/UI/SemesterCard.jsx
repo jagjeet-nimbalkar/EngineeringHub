@@ -8,7 +8,7 @@ export const SemesterCard = () => {
 
   useEffect(() => {
     const selectedBranch = SemData.find(
-      (branch) => branch.branch=== branchName  // branchname is get from link and check here is same as to branch in semester card json data
+      (branch) => branch.branch === branchName
     );
 
     if (selectedBranch) {
@@ -21,17 +21,21 @@ export const SemesterCard = () => {
   return (
     <div className="container">
       <div className="headline">
-        <h3>{branchName.replace(/-/g, ' ').toUpperCase()} </h3>
+        <h3>{branchName.replace(/-/g, " ").toUpperCase()} </h3>
       </div>
       <div className="row">
         {semesters.length > 0 ? (
-          semesters.map(({ id, semester, image, description }) => (
-            <div className="col-12 col-md-6 col-lg-4 p-4 mb-4" key={id}>
+          semesters.map((semester, index) => (
+            <div className="col-12 col-md-6 col-lg-4 p-4 mb-4" key={semester.id || index}>
               <div className="card branch-card h-100 d-flex flex-column">
-                <img src={image} className="card-img-top card-image-wrapper" alt={`Semester ${semester}`} />
+                <img
+                  src={semester.image}
+                  className="card-img-top card-image-wrapper"
+                  alt={`Semester ${semester.semester}`}
+                />
                 <div className="card-body flex-grow-1">
-                  <h2 className="card-title">Semester: {semester}</h2>
-                  <p className="card-text">{description}</p>
+                  <h2 className="card-title">Semester: {semester.semester}</h2>
+                  <p className="card-text">{semester.description}</p>
                 </div>
                 <div className="mt-auto p-3">
                   <button className="btn" type="button">

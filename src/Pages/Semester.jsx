@@ -10,6 +10,5 @@ export const Semester=()=>{
         <SemesterCard/>
         <Footer/>
     </>
-
     )
 }

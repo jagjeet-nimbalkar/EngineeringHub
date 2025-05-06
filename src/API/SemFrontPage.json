@@ -4,7 +4,7 @@
     "branch": "Computer Science and Engineering",
     "semesters": [
       {
-        "id":1,
+        "id": 1,
         "semester": 1,
         "subjects": [
           "Mathematics - I",
@@ -13,11 +13,11 @@
           "Engineering Chemistry",
           "Basic Electrical Engineering"
         ],
-        "image": "https://example.com/sem1.jpg",
+        "image": "/assets/images/first.png",
         "description": "Semester 1 covers the fundamental concepts of mathematics, physics, chemistry, programming, and electrical engineering."
       },
       {
-        "id":2,
+        "id": 2,
         "semester": 2,
         "subjects": [
           "Mathematics - II",
@@ -26,11 +26,11 @@
           "Engineering Mechanics",
           "Computer Organization"
         ],
-        "image": "https://example.com/sem2.jpg",
+        "image": "/assets/images/second.png",
         "description": "Semester 2 introduces data structures, discrete mathematics, and a deeper understanding of computer organization and engineering mechanics."
       },
       {
-        "id":3,
+        "id": 3,
         "semester": 3,
         "subjects": [
           "Mathematics - III",
@@ -39,11 +39,11 @@
           "Database Management Systems",
           "Design and Analysis of Algorithms"
         ],
-        "image": "https://example.com/sem3.jpg",
+        "image": "/assets/images/third.png",
         "description": "Semester 3 focuses on digital electronics, OOP, DBMS, and algorithms which form the core for further studies in computer science."
       },
       {
-        "id":4,
+        "id": 4,
         "semester": 4,
         "subjects": [
           "Operating Systems",
@@ -52,11 +52,11 @@
           "Microprocessors and Microcontrollers",
           "Discrete Structures"
         ],
-        "image": "https://example.com/sem4.jpg",
+        "image": "/assets/images/fourth.png",
         "description": "In semester 4, students learn about operating systems, networks, and software engineering concepts, alongside practical knowledge of microprocessors."
       },
       {
-        "id":5,
+        "id": 5,
         "semester": 5,
         "subjects": [
           "Automata Theory",
@@ -65,11 +65,11 @@
           "Artificial Intelligence",
           "Software Project Management"
         ],
-        "image": "https://example.com/sem5.jpg",
+        "image": "/assets/images/fifth.png",
         "description": "Semester 5 includes advanced topics like automata theory, compiler design, AI, and software project management."
       },
       {
-        "id":6,
+        "id": 6,
         "semester": 6,
         "subjects": [
           "Cloud Computing",
@@ -78,11 +78,11 @@
           "Mobile Application Development",
           "Web Technologies"
         ],
-        "image": "https://example.com/sem6.jpg",
+        "image": "/assets/images/sixth.png",
         "description": "Semester 6 focuses on modern technologies such as cloud computing, machine learning, and mobile app development."
       },
       {
-        "id":7,
+        "id": 7,
         "semester": 7,
         "subjects": [
           "Data Science",
@@ -91,11 +91,11 @@
           "Cyber Security",
           "Software Testing"
         ],
-        "image": "https://example.com/sem7.jpg",
+        "image": "/assets/images/seventh.png",
         "description": "Semester 7 introduces data science, big data, IoT, and cyber security along with software testing methodologies."
       },
       {
-        "id":8,
+        "id": 8,
         "semester": 8,
         "subjects": [
           "Cloud Computing (Advanced)",
@@ -104,7 +104,7 @@
           "Project Work",
           "Technical Writing"
         ],
-        "image": "https://example.com/sem8.jpg",
+        "image": "/assets/images/eighth.png",
         "description": "In the final semester, students learn advanced cloud computing, blockchain, and robotics, with a focus on project work and technical writing."
       }
     ]
@@ -122,7 +122,7 @@
           "Programming in C",
           "Engineering Mechanics"
         ],
-        "image": "https://example.com/et-sem1.jpg",
+        "image": "/assets/images/first.png",
         "description": "Introduces basic concepts in physics, mathematics, electrical engineering, and programming."
       },
       {
@@ -134,7 +134,7 @@
           "Circuits and Networks",
           "Electronic Devices"
         ],
-        "image": "https://example.com/et-sem2.jpg",
+        "image": "/assets/images/second.png",
         "description": "Focuses on digital electronics, field theory, circuits, and electronic components."
       },
       {
@@ -146,7 +146,7 @@
           "Communication Systems",
           "Microprocessors"
         ],
-        "image": "https://example.com/et-sem3.jpg",
+        "image": "/assets/images/third.png",
         "description": "Emphasis on analog systems, signals, communication techniques, and microprocessors."
       },
       {
@@ -158,7 +158,7 @@
           "Electromagnetic Waves",
           "Communication Networks"
         ],
-        "image": "https://example.com/et-sem4.jpg",
+        "image": "/assets/images/fourth.png",
         "description": "Focuses on control systems, VLSI, and advanced communication techniques."
       },
       {
@@ -170,7 +170,7 @@
           "Embedded Systems",
           "Elective I"
         ],
-        "image": "https://example.com/et-sem5.jpg",
+        "image": "/assets/images/fifth.png",
         "description": "Advanced communication systems and embedded systems."
       },
       {
@@ -182,7 +182,7 @@
           "Networking Protocols",
           "Elective II"
         ],
-        "image": "https://example.com/et-sem6.jpg",
+        "image": "/assets/images/sixth.png",
         "description": "Specialization in wireless, satellite, and digital communication systems."
       },
       {
@@ -194,7 +194,7 @@
           "Elective III",
           "Project Work"
         ],
-        "image": "https://example.com/et-sem7.jpg",
+        "image": "/assets/images/seventh.png",
         "description": "Advanced communication design and smart system integration."
       },
       {
@@ -205,7 +205,7 @@
           "Comprehensive Viva",
           "Final Project"
         ],
-        "image": "https://example.com/et-sem8.jpg",
+        "image": "/assets/images/eighth.png",
         "description": "Final phase with specialized communication techniques and project work."
       }
     ]
@@ -223,7 +223,7 @@
           "Engineering Mechanics",
           "Computer Programming"
         ],
-        "image": "https://example.com/eee-sem1.jpg",
+        "image": "/assets/images/first.png",
         "description": "Introduces fundamentals of physics and electrical engineering."
       },
       {
@@ -235,7 +235,7 @@
           "Electromagnetic Field Theory",
           "Network Analysis"
         ],
-        "image": "https://example.com/eee-sem2.jpg",
+        "image": "/assets/images/second.png",
         "description": "Foundation in circuits, electronics, and field theory."
       },
       {
@@ -247,7 +247,7 @@
           "Signals and Systems",
           "Measurement and Instrumentation"
         ],
-        "image": "https://example.com/eee-sem3.jpg",
+        "image": "/assets/images/third.png",
         "description": "Study of machines, electronics, and signal processing."
       },
       {
@@ -259,7 +259,7 @@
           "Microprocessors",
           "Electrical Workshop"
         ],
-        "image": "https://example.com/eee-sem4.jpg",
+        "image": "/assets/images/fourth.png",
         "description": "Power systems and microprocessor-based control systems."
       },
       {
@@ -271,7 +271,7 @@
           "Elective I",
           "Mini Project"
         ],
-        "image": "https://example.com/eee-sem5.jpg",
+        "image": "/assets/images/fifth.png",
         "description": "Advanced power systems and embedded applications."
       },
       {
@@ -283,7 +283,7 @@
           "Project Phase I",
           "Seminar"
         ],
-        "image": "https://example.com/eee-sem6.jpg",
+        "image": "/assets/images/sixth.png",
         "description": "Renewables and high voltage engineering with project start."
       },
       {
@@ -295,7 +295,7 @@
           "Project Phase II",
           "Industrial Training"
         ],
-        "image": "https://example.com/eee-sem7.jpg",
+        "image": "/assets/images/seventh.png",
         "description": "Electric drives and smart grid systems with industrial training."
       },
       {
@@ -306,7 +306,7 @@
           "Comprehensive Viva",
           "Final Project"
         ],
-        "image": "https://example.com/eee-sem8.jpg",
+        "image": "/assets/images/eighth.png",
         "description": "Final phase covers EV technologies and comprehensive project work."
       }
     ]
@@ -324,7 +324,7 @@
           "Engineering Mechanics",
           "Basic Electrical Engineering"
         ],
-        "image": "https://example.com/me-sem1.jpg",
+        "image": "/assets/images/first.png",
         "description": "Introduces the fundamental concepts in mechanics and basic engineering principles."
       },
       {
@@ -336,7 +336,7 @@
           "Manufacturing Processes",
           "Engineering Thermodynamics"
         ],
-        "image": "https://example.com/me-sem2.jpg",
+        "image": "/assets/images/second.png",
         "description": "Foundation in strength of materials, fluid mechanics, and thermodynamics."
       },
       {
@@ -348,7 +348,7 @@
           "Production Planning",
           "Material Science"
         ],
-        "image": "https://example.com/me-sem3.jpg",
+        "image": "/assets/images/third.png",
         "description": "Advanced study in vibrations, heat transfer, and machine design."
       },
       {
@@ -360,7 +360,7 @@
           "Control Systems",
           "Instrumentation"
         ],
-        "image": "https://example.com/me-sem4.jpg",
+        "image": "/assets/images/fourth.png",
         "description": "Detailed study in design, fluid dynamics, and control systems."
       },
       {
@@ -372,7 +372,7 @@
           "Thermal Engineering",
           "Elective I"
         ],
-        "image": "https://example.com/me-sem5.jpg",
+        "image": "/assets/images/fifth.png",
         "description": "Specialization in combustion engines, mechatronics, and thermal systems."
       },
       {
@@ -384,7 +384,7 @@
           "Project Management",
           "Elective II"
         ],
-        "image": "https://example.com/me-sem6.jpg",
+        "image": "/assets/images/sixth.png",
         "description": "Study of robotics, automation, and project management."
       },
       {
@@ -396,7 +396,7 @@
           "Elective III",
           "Project Work"
         ],
-        "image": "https://example.com/me-sem7.jpg",
+        "image": "/assets/images/seventh.png",
         "description": "Focus on mechanical design systems and advanced mechatronics."
       },
       {
@@ -406,7 +406,7 @@
           "Comprehensive Viva",
           "Final Project"
         ],
-        "image": "https://example.com/me-sem8.jpg",
+        "image": "/assets/images/eighth.png",
         "description": "Final semester covers advanced manufacturing and project work."
       }
     ]
