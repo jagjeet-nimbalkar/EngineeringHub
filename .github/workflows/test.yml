@@ -16,10 +16,13 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '18'  # ✅ Updated from '11' to '18'
+        node-version: '18'
 
     - name: Install dependencies
       run: npm install
+
+    - name: Fix Jest permissions (if needed)
+      run: chmod +x ./node_modules/.bin/jest
 
     - name: Run tests
       run: npm test
